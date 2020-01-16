@@ -9,13 +9,12 @@
 - 개발 Tool : Visual Studio 2010
 - 제작기간 : 5일 (2015.9.28 ~ 2015.10.2)
 
-
 # 어플리케이션
 #### 초기화면
-![](image/캡처2.png)
+![](Image/capture2.PNG)
 
 #### 연결 상태에서 채팅을 친 화면
-![](image/캡처.png)
+![](Image/capture.PNG)
 
 #### 서브클래싱으로 윈도우 기본 Edit 클래스를 수정한 결과
-![](image/캡처3.png)
+![](Image/capture3.PNG)
