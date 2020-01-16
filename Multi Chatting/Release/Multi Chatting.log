@@ -1,0 +1,37 @@
+﻿  ChattingScene.cpp
+  ClientSocket.cpp
+  GetIPScene.cpp
+  ListenSocket.cpp
+  Scene.cpp
+  SceneManager.cpp
+  Service.cpp
+C:\Users\uc503\Documents\github\MultiChatting\Multi Chatting\Service.h(20,2): warning C4091: 'extern ': 변수를 선언하지 않으면 'CService' 왼쪽은 무시됩니다.
+C:\Users\uc503\Documents\github\MultiChatting\Multi Chatting\Service.cpp(32,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : 'strcat' 선언을 참조하십시오.
+C:\Users\uc503\Documents\github\MultiChatting\Multi Chatting\Service.cpp(33,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : 'strcat' 선언을 참조하십시오.
+C:\Users\uc503\Documents\github\MultiChatting\Multi Chatting\Service.cpp(40,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : 'strcat' 선언을 참조하십시오.
+C:\Users\uc503\Documents\github\MultiChatting\Multi Chatting\Service.cpp(41,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : 'strcat' 선언을 참조하십시오.
+C:\Users\uc503\Documents\github\MultiChatting\Multi Chatting\Service.cpp(126,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 'strcpy' 선언을 참조하십시오.
+C:\Users\uc503\Documents\github\MultiChatting\Multi Chatting\Service.cpp(245,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : 'strcat' 선언을 참조하십시오.
+C:\Users\uc503\Documents\github\MultiChatting\Multi Chatting\Service.cpp(266,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 'strcpy' 선언을 참조하십시오.
+  Socket.cpp
+  SocketManager.cpp
+C:\Users\uc503\Documents\github\MultiChatting\Multi Chatting\SocketManager.cpp(81,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 'strcpy' 선언을 참조하십시오.
+C:\Users\uc503\Documents\github\MultiChatting\Multi Chatting\SocketManager.cpp(176,1): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WinSock2.h(2219): message : 'gethostbyname' 선언을 참조하십시오.
+C:\Users\uc503\Documents\github\MultiChatting\Multi Chatting\SocketManager.cpp(178,1): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WinSock2.h(1849): message : 'inet_ntoa' 선언을 참조하십시오.
+  StartScene.cpp
+  WinMain.cpp
+C:\Users\uc503\Documents\github\MultiChatting\Multi Chatting\Service.h(20,2): warning C4091: 'extern ': 변수를 선언하지 않으면 'CService' 왼쪽은 무시됩니다.
+C:\Users\uc503\Documents\github\MultiChatting\Multi Chatting\WinMain.cpp(33,6): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 'strcpy' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...
+  Multi Chatting.vcxproj -> C:\Users\uc503\Documents\github\MultiChatting\Release\Multi Chatting.exe

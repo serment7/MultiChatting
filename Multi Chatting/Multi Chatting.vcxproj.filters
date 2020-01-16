@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Service">
+      <UniqueIdentifier>{8cd51477-1ecc-49e5-b7b4-10cbaabd4587}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scene">
+      <UniqueIdentifier>{3a55bfc1-465b-44f4-930e-dbf9b00351bb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Network">
+      <UniqueIdentifier>{6343ea3b-7b3a-4b56-9b44-ad0dee8cbd22}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="base">
+      <UniqueIdentifier>{f5a62616-af3e-45e3-869f-3b9bce9bf555}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Socket.cpp">
+      <Filter>Network</Filter>
+    </ClCompile>
+    <ClCompile Include="SocketManager.cpp">
+      <Filter>Network</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Service.cpp">
+      <Filter>Service</Filter>
+    </ClCompile>
+    <ClCompile Include="WinMain.cpp">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneManager.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="StartScene.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="GetIPScene.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="ChattingScene.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="ListenSocket.cpp">
+      <Filter>Network</Filter>
+    </ClCompile>
+    <ClCompile Include="ClientSocket.cpp">
+      <Filter>Network</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="SocketManager.h">
+      <Filter>Network</Filter>
+    </ClInclude>
+    <ClInclude Include="Socket.h">
+      <Filter>Network</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Service.h">
+      <Filter>Service</Filter>
+    </ClInclude>
+    <ClInclude Include="Constants.h">
+      <Filter>base</Filter>
+    </ClInclude>
+    <ClInclude Include="StartScene.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneManager.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="GetIPScene.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="ChattingScene.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="ListenSocket.h">
+      <Filter>Network</Filter>
+    </ClInclude>
+    <ClInclude Include="ClientSocket.h">
+      <Filter>Network</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
